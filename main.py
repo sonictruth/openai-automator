@@ -38,7 +38,7 @@ selected_text = sys.stdin.read()
 
 prompt_text = "You are a helpful assistant."
 prompt_text = "spellcheck"
-match = re.search(r"\[(.*?)\]", selected_text)
+match = re.search(r"^\[(.*?)\]", selected_text)
 if match:
     prompt_text = match.group(1)
     prompt_text = re.sub(r'[^a-z]', '', prompt_text.lower())

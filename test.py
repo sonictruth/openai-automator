@@ -2,7 +2,7 @@ import subprocess
 
 command = ['python3', 'main.py']
 
-input_data = '[genz] Hello how are you ?\n'
+input_data = '[genz] Hello how are you [http://www.example.com] ?\n'
 
 process = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
 
