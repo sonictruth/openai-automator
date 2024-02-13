@@ -12,7 +12,7 @@
 - Ensure that you have Python 3 installed.
 - Check out this project using Git in your home directory.
 - Rename .env.example to .env and add your OpenAI API key.
-- Add OpenAI.workflow to Automator.
+- Add _OpenAI.workflow_ to Automator.
 - Recommended service Keyboard Shortcut: Shift + Ctrl + Z
 - The project contains three prompts. The default prompt is spellcheck 
 - For prompts other than the default, begin the selected text with the name of the prompt in square brackets.
@@ -21,5 +21,6 @@
 - Select the following text inside an editable box: _[genz] Hello world, how are you ?_
 - Press the shortcut keys.
 - The text will be replaced with: _Heyyy world, wassup? How ya vibin'? 😎🌍🤙_
-
+- 
+## Automator config _OpenAI.workflow_: 
 <img src="workflow.png" width="200">
