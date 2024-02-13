@@ -9,7 +9,6 @@
 - You can add your own prompt to the prompts folder.
 
 ## Install:
-
 - Ensure that you have Python 3 installed.
 - Check out this project using Git in your home directory.
 - Rename .env.example to .env and add your OpenAI API key.
@@ -17,7 +16,6 @@
 - Recommended service Keyboard Shortcut: Shift + Ctrl + Z
 - The project contains three prompts. The default prompt is spellcheck 
 - For prompts other than the default, begin the selected text with the name of the prompt in square brackets.
-
 
 ## Example: 
 - Select the following text inside an editable box: _[genz] Hello world, how are you ?_
