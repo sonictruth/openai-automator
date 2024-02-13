@@ -4,9 +4,9 @@
 - Availible prompts:
     - spellcheck: English spellchecker (default)
     - coding: Code generation
-    - genz: Translate english to GenZ
+    - genz: Translate English to GenZ
     - enfr: Translate English to French.
-
+- You can add your own prompt to the prompts folder.
 
 ## Install:
 
@@ -16,10 +16,12 @@
 - Add OpenAI.workflow to Automator.
 - Recommended service Keyboard Shortcut: Shift + Ctrl + Z
 - The project contains three prompts. The default prompt is spellcheck 
-- To use other prompts, start the selected text with the name of the prompt.
-  Example: select the text following text: 
-  _[genz] Hello world, how are you ?_
-  and press the shortcut keys. 
-  The text will be replaced by _Heyyy world, wassup? How ya vibin'? 😎🌍🤙_
+- For prompts other than the default, begin the selected text with the name of the prompt in square brackets.
+
+
+## Example: 
+- Select the following text inside an editable box: _[genz] Hello world, how are you ?_
+- Press the shortcut keys.
+- The text will be replaced with: _Heyyy world, wassup? How ya vibin'? 😎🌍🤙_
 
 <img src="workflow.png" width="200">
