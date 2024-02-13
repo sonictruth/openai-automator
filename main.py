@@ -51,6 +51,7 @@ try:
         prompt_text = file.read()
 except FileNotFoundError:
     print(f"File not found: {file_path}")
+    exit()
 
 response = client.chat.completions.create(
     model=Model.GPT_4.value,
