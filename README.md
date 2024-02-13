@@ -11,7 +11,7 @@
 - Add OpenAI.workflow to Automator.
 - Recommended service Keyboard Shortcut: Shift + Ctrl + Z
 - The project contains three prompts. The default prompt is spellcheck 
-- To use other prompts, start the selection with the name.
+- To use other prompts, start the selected text with the name of the prompt.
   Example: select the text following text: 
   _[genz] Hello world, how are you ?_
   and press the shortcut keys. 
