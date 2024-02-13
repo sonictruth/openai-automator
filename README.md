@@ -12,7 +12,7 @@
 - Ensure that you have Python 3 installed.
 - Check out this project using Git in your home directory.
 - Rename .env.example to .env and add your OpenAI API key.
-- Add _OpenAI.workflow_ to Automator.
+- Import _OpenAI.workflow_ in Automator.
 - Recommended service Keyboard Shortcut: Shift + Ctrl + Z
 - The project contains three prompts. The default prompt is spellcheck 
 - For prompts other than the default, begin the selected text with the name of the prompt in square brackets.
