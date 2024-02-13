@@ -1,4 +1,4 @@
-# macOS OpenAI Automator 🤖
+# 🤖 macOS OpenAI Automator 
 
 - A script for Mac Automator that allows you to perform spell checks or other text-related tasks within any application on Mac OS. 
 - Availible prompts:
