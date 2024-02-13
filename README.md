@@ -1,6 +1,11 @@
 # macOS OpenAI Automator 🤖
 
-- A script for Mac Automator that allows you to perform spell checks or other text-related tasks within any application on Mac OS.
+- A script for Mac Automator that allows you to perform spell checks or other text-related tasks within any application on Mac OS. 
+- Availible prompts:
+    - apellcheck: English spellchecker
+    - coding: Code generation
+    - genz: Translate english to GenZ
+    - enfr: Translate English to French.
 
 
 ## Install:
